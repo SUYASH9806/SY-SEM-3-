@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 101.0,
+        "Name": "John",
+        "Department": "Computer",
+        "Marks": 85.0
+    },
+    {
+        "ID": 102.0,
+        "Name": "Smith",
+        "Department": "IT",
+        "Marks": 90.0
+    },
+    {
+        "ID": 103.0,
+        "Name": "David",
+        "Department": "Computer",
+        "Marks": 78.0
+    },
+    {
+        "ID": 104.0,
+        "Name": "Emma",
+        "Department": "IT",
+        "Marks": 88.0
+    }
+]
